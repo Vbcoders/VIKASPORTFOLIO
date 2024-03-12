@@ -32,7 +32,6 @@ header h1 {
     padding: 20px;
     background-size: cover;
     text-align: center;
-    font-family: cursive;
 }
 
 #about img {
@@ -152,7 +151,7 @@ footer {
 .p1,.p2{
     background-color: #f0f0f0;
     padding: 20px;
-    margin: 100px;
+    margin: 10px;
     border-radius: 20px 20px 0px 20px;
     box-shadow: 1px 1px 10px 1px #333;
 }
