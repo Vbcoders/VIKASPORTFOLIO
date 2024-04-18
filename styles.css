@@ -14,15 +14,7 @@ body {
 }
 
 /* Header Section */
-header {
-    padding: 10px;
-    text-align: center;
-}
 
-header img {
-    margin-top: 10px;
-    border-radius:30px;
-}
 
 /* About Section */
 #about {
