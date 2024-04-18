@@ -17,6 +17,7 @@ body {
 header {
     background-image:url("Black Technology LinkedIn Banner (2).png"); /* Light grey background */
     padding: 20px;
+    background-size: cover;
     color: #f0f0f0;
     text-align: center;
 }
