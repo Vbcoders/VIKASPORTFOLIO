@@ -15,16 +15,14 @@ body {
 
 /* Header Section */
 header {
-    background-image:url("Black Technology LinkedIn Banner (2).png"); /* Light grey background */
     padding: 50px;
-    background-size: cover;
-    color: #f0f0f0;
     text-align: center;
 }
 
-header h1 {
+header img {
     margin-top: 10px;
-   font-weight: 800;
+    border-radius:30px;
+    padding:10px;
 }
 
 /* About Section */
